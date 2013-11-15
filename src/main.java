@@ -10,7 +10,7 @@ public class main {
 		
 			Menu m = new Menu();
 			
-			System.out.println("Zouberta");
+			System.out.println("joseph");
 	}
 
 }
